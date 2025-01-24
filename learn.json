@@ -1,0 +1,20 @@
+{
+    "difficulty": "easy",
+    "duration": 8,
+    "repository": "https://github.com/breatheco-de/exercise-starwards-blog-express-api",
+    "solution": "https://github.com/breatheco-de/exercise-starwards-blog-express-api/tree/solution",
+    "preview": "https://github.com/breatheco-de/exercise-starwards-blog-express-api/blob/main/.learn/assets/preview.png?raw=true",
+    "language": "node",
+    "skills": ["api-development"],
+    "technologies": ["express", "rest", "node", "typeorm"],
+    "description": {
+        "en": "The StarWars Blog API will let you practice building a REST API using lightweight API frameworks like Express (for node) using TypeORM and Node.js language while building a fun blog. Ideal for juniors looking to practice API development in Node.js.",
+        "es": "La API del Blog de StarWars te permitirá practicar la construcción de una API REST utilizando frameworks ligeros como Express (para node) usando TypeORM y el lenguaje Node.js mientras construyes un blog divertido. Ideal para juniors que buscan practicar el desarrollo de API en Node.js."
+    },
+    "title": {
+        "en": "Build a StarWars REST API",
+        "es": "Construye una API REST de StarWars"
+    },
+    "projectType": "project",
+    "slug": "exercise-starwards-blog-express-api"
+  }
