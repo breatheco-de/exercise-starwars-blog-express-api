@@ -1,9 +1,9 @@
 {
     "difficulty": "easy",
     "duration": 8,
-    "repository": "https://github.com/breatheco-de/exercise-starwards-blog-express-api",
-    "solution": "https://github.com/breatheco-de/exercise-starwards-blog-express-api/tree/solution",
-    "preview": "https://github.com/breatheco-de/exercise-starwards-blog-express-api/blob/main/.learn/assets/preview.png?raw=true",
+    "repository": "https://github.com/breatheco-de/exercise-starwars-blog-express-api",
+    "solution": "https://github.com/breatheco-de/exercise-starwars-blog-express-api/tree/solution",
+    "preview": "https://github.com/breatheco-de/exercise-starwars-blog-express-api/blob/main/.learn/assets/preview.png?raw=true",
     "language": "node",
     "skills": ["api-development"],
     "technologies": ["express", "rest", "node", "typeorm"],
@@ -16,5 +16,5 @@
         "es": "Construye una API REST de StarWars"
     },
     "projectType": "project",
-    "slug": "exercise-starwards-blog-express-api"
+    "slug": "exercise-starwars-blog-express-api"
   }
