@@ -16,5 +16,6 @@
         "es": "Construye una API REST de StarWars"
     },
     "projectType": "project",
+    "template_url": "https://github.com/4GeeksAcademy/expressjs-rest-hello",
     "slug": "exercise-starwars-blog-express-api"
   }
